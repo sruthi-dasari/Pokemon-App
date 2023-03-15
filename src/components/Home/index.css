@@ -1,0 +1,8 @@
+.home-container {
+  background-image: linear-gradient(to left, #8a66cc, #f07e1a);
+  height: 100vh;
+}
+
+.subtitle {
+  margin-top: 0px;
+}
